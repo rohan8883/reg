@@ -1,0 +1,80 @@
+{
+  "student": [
+    {
+      "name": "Rajat singh",
+      "surname": "singh",
+      "user_id": "ddfs3434",
+      "phone": "9576689160",
+      "email": "rohan1234@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "chandan",
+      "surname": "singh",
+      "user_id": "befigergf",
+      "phone": "8789867216",
+      "email": "rohansingh9135@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Rohan kr singh",
+      "surname": "singh",
+      "user_id": "223",
+      "phone": "8789867216",
+      "email": "rohansingh9135@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "rohan kumar",
+      "surname": "kumarw",
+      "user_id": "2rohan2@gmail.com",
+      "phone": "8789867216",
+      "email": "rrr1bvkjg11@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "chax 222",
+      "surname": "singh",
+      "user_id": "pks631465@gmail.com",
+      "phone": "5555598952",
+      "email": "rohan1234@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "Dahlia",
+      "surname": "Collier",
+      "user_id": "neqyko",
+      "phone": "8777777777",
+      "email": "lyhuri@mailinator.com",
+      "id": 8
+    },
+    {
+      "name": "Otto R",
+      "surname": "Castillo",
+      "user_id": "sybik",
+      "phone": "5555554444",
+      "email": "sykafi@mailinator.com",
+      "id": 9
+    },
+    {
+      "name": "Gray Cooke",
+      "surname": "Wilkerson",
+      "user_id": "bacapoci",
+      "phone": "4323255311",
+      "email": "qipuz@mailinator.com",
+      "pass": "Pa$$w0rd!",
+      "rpass": "Pa$$w0rd!",
+      "id": 10
+    },
+    {
+      "name": "Gannon Dyer",
+      "surname": "Pacheco",
+      "user_id": "noxeniqypa",
+      "phone": "7899556539",
+      "email": "lohaqi@mailinator.com",
+      "pass": "Pa$$w0rd!",
+      "rpass": "Pa$$w0rd!",
+      "id": 11
+    }
+  ]
+}

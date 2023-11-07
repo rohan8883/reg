@@ -1,0 +1,119 @@
+/* #header{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%; 
+    text-align: center;
+    background-color:rgb(196, 37, 37);
+}
+
+table,body,tr,td,td{
+    border: 1px solid #0e0b0b;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#box{
+    border-style: inset;
+    
+    grid-template-rows: 200px 200px;
+    grid-template-columns: auto auto auto;
+    display: grid;
+    grid-column-gap: 50px;
+    grid-row-gap: 50px;
+    padding: 50px;
+    background-color: lightcoral;
+} 
+.header{
+    height: auto;
+    width: 100%;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card{
+    height:100%;
+    width: 60%;
+    border: 2px dashed  black;
+    border-radius: 5px;
+    margin: 5px;
+    background-color: lightskyblue;
+    background-image: url('https://www.shutterstock.com/image-illustration/akola-word-lettering-260nw-1317773957.jpg');
+   
+   background-size: cover; 
+   background-position: center center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.receipt_border{
+    border: 1px solid black; 
+    margin-right: 30%; 
+    margin-left: 30%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 20%;
+}
+.WATERCONNECTION{
+  background-color: red;
+  text-align: left;
+}
+
+Default table styles
+.responsive_table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border: 1px solid #0e0b0b;
+  }
+  tr,td{
+    border: 1px solid #0e0b0b;
+    text-align: left;
+    padding-left: 10px;
+  }
+  td p{
+    text-align: right;
+    margin-right: 10px;
+    
+  }
+  td h1{
+    text-align: center;
+    font-weight: 500;
+  }
+  .responsive-table  td, .responsive-table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    
+  }
+  
+  
+  @media (max-width: 600px) {
+    .responsive-table {
+      display: block;
+      width: 100%;
+    
+    }
+  
+    .responsive-table tbody,
+    .responsive-table tr,
+    .responsive-table td {
+      display: block;
+      width: 100%;
+      
+    }
+  
+    .responsive-table tr {
+      margin-bottom: 10px;
+     
+    }
+  
+    .responsive-table td {
+      text-align: left;
+      border: none;
+      padding: 5px;
+    }
+  } */
+  
